@@ -1,0 +1,41 @@
+{
+  "produtos": [
+    {
+      "id": "2",
+      "nome": "notebook 2",
+      "valor": 3000
+    },
+    {
+      "id": "3",
+      "nome": "notebook 3",
+      "valor": 4000
+    },
+    {
+      "id": "4",
+      "nome": "TV Smart 55",
+      "valor": "3000"
+    },
+    {
+      "id": "1",
+      "nome": "notebook 1",
+      "valor": 2000
+    }
+  ],
+  "clientes": [
+    {
+      "id": "1",
+      "nome": "Aline Silva",
+      "email": "asilva@gmail.com"
+    },
+    {
+      "id": "2",
+      "nome": "Beto Oliveira",
+      "email": "bolioliveira@terra.com"
+    },
+    {
+      "id": "3",
+      "nome": "Matus Souza",
+      "email": "msouza@hotmart.com"
+    }
+  ]
+}
